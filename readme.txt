@@ -1,18 +1,4 @@
-2018.11.08  vue 于构建用户界面的渐进式框架
-1.引用 script标签中引入vue.js文件
-2. 核心基础语法
-html 中
-<div id="app">
-  {{ message }}
-</div>
-js中
-var app = new Vue({
-  el: '#app',
-  data: {
-    message: 'Hello Vue!'
-  }，
-  methods：{自定义方法集}
-})
+
 
 3.基础命令
 条件 v-if   循环 v-for  点击 v-on:click   缩写@click
