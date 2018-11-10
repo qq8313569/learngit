@@ -1,4 +1,4 @@
-
+加一个人
 
 3.基础命令
 条件 v-if   循环 v-for  点击 v-on:click   缩写@click
